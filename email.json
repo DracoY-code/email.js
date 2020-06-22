@@ -1,0 +1,17 @@
+{
+	"credentials": {
+		"service": "gmail",
+		"auth": {
+			"user": "youremail@gmail.com",
+			"pass": "yourpassword"
+		}
+	},
+	
+	"mail": {
+		"from": "youremail@gmail.com",
+		"to": "sender@gmail.com",
+		"subject": "TEST",
+		"text": "This is a test. Enjoy!",
+		"html": ""
+	}
+}
